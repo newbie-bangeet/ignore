@@ -1,0 +1,6 @@
+# nama file secara spesifik
+config.txt 
+# seluruh extensi berikut
+*.exe
+# folder berikut
+data/
